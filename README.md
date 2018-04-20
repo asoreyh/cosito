@@ -10,7 +10,7 @@
 
 # Contenidos
 
-## [Encuentros](htps://github.com/asoreyh/cosito/tree/master/encuentros)
+## [Encuentros](https://github.com/asoreyh/cosito/tree/master/encuentros)
 
 ## [Referencias](https://github.com/asoreyh/cosito/tree/master/referencias)
 
