@@ -32,20 +32,23 @@ detector de partículas.**
 
 Se crearán tres grupos de trabajo: WP0 (coordinación), WP1 (hardware) y WP2
 (fenomenología). Los estudiantes se unirán en al menos dos de estos tres grupos
-de trabajo, y participarán activamente en todas las etapas del proyecto. El
-curso tiene una duración total de ciento veinte (120) horas, y estará compuesto
-por treinta (30) módulos de cuatro (4) horas de duración cada uno. Veinte (19)
-módulos estarán dedicados a generar ambientes de trabajo SOLE (*Self Organizing
-Learning Enviroments*) guiados por el docente, con el objetivo de generar los
-ámbitos de discusión necesarios para el aprendizaje de los principios físicos
-involucrados en las distintas etapas a lo largo de la ejecución del proyecto.
-La planificación, el diseño electrónico y mecánico, la discusión de ideas y
-resultados también tendrán lugar en estos encuentros. Otros diez (10) módulos
-estarán dedicados a la ejecución de los trabajos individuales que surjan y se
-asignen durante los encuentros grupales.  Al finalizar se destinarán el últimos
-módulo para la realización de un Taller de discusión e intercambio de
-experiencias, resultados y aprendizajes. La evaluación de cada estudiante se
-llevará a cabo de manera contínua durante todas las etapas del aprendizaje. 
+de trabajo, y participarán activamente en todas las etapas del proyecto.
+
+El curso tiene una duración total de ciento veinte (120) horas, y estará
+compuesto por treinta (30) módulos de cuatro (4) horas de duración cada uno.
+Diecinueve (19) módulos estarán dedicados a generar ambientes de trabajo SOLE
+(*Self Organizing Learning Enviroments*) guiados por el docente, con el
+objetivo de generar los ámbitos de discusión necesarios para el aprendizaje de
+los principios físicos involucrados en las distintas etapas a lo largo de la
+ejecución del proyecto.  La planificación, el diseño electrónico y mecánico, la
+discusión de ideas y resultados también tendrán lugar en estos encuentros.
+Otros diez (10) módulos estarán dedicados a la ejecución de los trabajos
+individuales que surjan y se asignen durante los encuentros grupales.  Al
+finalizar se destinarán el último módulo para la realización de un Taller de
+discusión e intercambio de experiencias, resultados y aprendizajes. 
+
+La evaluación de cada estudiante se llevará a cabo de manera continua durante
+todas las etapas del aprendizaje. 
 
 # Contenidos mínimos
 
