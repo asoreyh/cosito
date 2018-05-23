@@ -95,8 +95,8 @@ curso. Una lista no excluyente podría incluir a los siguientes libros y notas:
 * Carl Cohen, Lab Dynamics: Management and Leadership Skills for Scientists,
   2nd Edition, Cold Spring Harbor Laboratory Press, 2012, ISBN 9781936113781
 * Sugata Mitra, [Building a School in the
-  Cloud](https://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud?language=es),
-  TED 2013 Conference, Feb 2013. 
+  Cloud](https://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud?language=es), TED 2013 Conference, Feb 2013. 
+* Urban, Tim, [Inside the mind of a master procrastinator](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator), TED 2016 Conference, Feb 2016.
 
 ## Evolución del curso
 
