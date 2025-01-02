@@ -18,6 +18,10 @@
 
 ## [Materiales](https://github.com/asoreyh/cosito/tree/master/materiales)
 
+## Información importante
+
+Este commit correponde a la última edición del curso, correspondiente a la Cohorte 2018. Con este commit y release se da por cerrado el repositorio.
+
 # Objetivo general
 
 **Aprender a transformar una idea en un proyecto**
