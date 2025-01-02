@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/130373149.svg)](https://doi.org/10.5281/zenodo.14589732)
+
 ![Banner](materiales/banner.png)
 
 # Técnicas en Detección de Partículas 
